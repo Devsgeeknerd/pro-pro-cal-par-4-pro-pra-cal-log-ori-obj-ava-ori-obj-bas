@@ -5,6 +5,8 @@
     margin: auto;
 ```
 
+> Basicamente ele deixa as margens do elemento automatico.
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 

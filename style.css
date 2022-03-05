@@ -1,4 +1,6 @@
 body{
     margin: 0px;
 }
-.texto{}
+.texto{
+    width: 900px;
+}

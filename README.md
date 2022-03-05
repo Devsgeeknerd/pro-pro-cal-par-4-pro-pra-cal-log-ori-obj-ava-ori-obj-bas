@@ -1,6 +1,10 @@
 <!-- TITLE -->
 # Box Model
 
+```css
+    margin: auto;
+```
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 

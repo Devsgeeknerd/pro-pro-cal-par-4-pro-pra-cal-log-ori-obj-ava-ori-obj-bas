@@ -2,6 +2,7 @@ body{
     margin: 0px;
 }
 .texto{
+    background-color: #eeeeee;
     width: 900px;
     height: 600px;
 }

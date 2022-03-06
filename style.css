@@ -1,9 +1,11 @@
-body{
+body {
     margin: 0px;
 }
-.texto{
+
+.texto {
     background-color: #eeeeee;
     color: #ff0000;
     width: 900px;
     height: 600px;
+    font-size: 21px;
 }
